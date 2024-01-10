@@ -2,12 +2,9 @@ package com.basaran.whoami.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.SavedStateHandle
-import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import androidx.navigation.navArgument
-import com.basaran.whoami.model.CategoriesName
 import com.basaran.whoami.view.DetailScreen
 import com.basaran.whoami.view.GameScreen
 import com.basaran.whoami.view.HomeScreen
