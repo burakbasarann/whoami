@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">whoami</string>
+    <string name="alias">whoami_alias</string>
+    <string name="hrrr">ali35713571</string>
 </resources>
