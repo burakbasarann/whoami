@@ -74,4 +74,7 @@ dependencies {
 
     //add this for image loading
     implementation("io.coil-kt:coil-compose:2.4.0")
+
+    //Glide
+    implementation("com.github.bumptech.glide:compose:1.0.0-beta01")
 }
